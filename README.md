@@ -10,11 +10,11 @@ From everything I've learned from the courses listed below, I've learned that we
 The main **technique** which are used in many workshops and lectures I've learned furthermore are: 
 - How to use **Confusion Matrix** and other matrices,
 - **k-fold cross-validation**,
-- Calculating **F1-score** and other scores,
-- **Data Augmentation**(Horizontal/Vertical Shift, Rotation, Brightness Adjustment, Shear/Zoom, Flip, etc.),
-- **EfficientNet**,
 - **YOLO**,
-- etc.
+- Calculating **F1-score** and other scores,
+- **EfficientNet**,
+- **Data Augmentation**(Horizontal/Vertical Shift, Rotation, Brightness Adjustment, Shear/Zoom, Flip, etc.),
+- And many more techniques.
 
 
 ## Content
