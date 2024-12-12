@@ -1,7 +1,7 @@
 ## ABOUT ME
 - Name: **Patiharn Liangkobkit**
 - Nickname: **Richy**
-- Expertise: **Next.js, Typescript, React Native, C, HTML, Python, etc.**
+- Expertise: **Next.js, Typescript, React Native, C, C#, HTML, Python, Verilog, etc.**
 - University: **King Mongkut’s University of Technology Thonburi**
 
 ## IN SUMMARY
