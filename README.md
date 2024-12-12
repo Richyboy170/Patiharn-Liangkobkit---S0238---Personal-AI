@@ -1,4 +1,4 @@
-## About Me
+## ABOUT ME
 - Name: **Patiharn Liangkobkit**
 - Nickname: **Richy**
 - Expertise: **Next.js, Typescript, React Native, C, HTML, Python, etc.**
@@ -17,7 +17,7 @@ The main **technique** which are used in many workshops and lectures I've learne
 - And many more techniques.
 
 
-## Content
+## CONTENT
 | Class |                       Name                       | Workshop | Certificate |
 |:-----:|:------------------------------------------------:|:--------:|:-------:|
 |   1   |  xPore: An AI-Powered App for Bioinformaticians  | [GMM]() |   [xPore An AI-Powered App for Bioinformaticians.pdf](https://github.com/user-attachments/files/18112330/xPore.An.AI-Powered.App.for.Bioinformaticians.pdf) |
