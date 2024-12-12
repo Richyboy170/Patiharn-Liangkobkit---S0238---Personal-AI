@@ -1,8 +1,21 @@
 ## About Me
-- Name: Patiharn Liangkobkit
-- Nickname: Richy
-- Expertise: Next.js, Typescript, React Native, C, HTML, Python, etc.
-- University: King Mongkut’s University of Technology Thonburi
+- Name: **Patiharn Liangkobkit**
+- Nickname: **Richy**
+- Expertise: **Next.js, Typescript, React Native, C, HTML, Python, etc.**
+- University: **King Mongkut’s University of Technology Thonburi**
+
+## IN SUMMARY
+From everything I've learned from the courses listed below, I've learned that we need to have many parts for researching such as: **Problem Statement, Data Collection, Data Preparation, Modelling, Evaluation, Visualization and Presentation, and Future Work**. 
+
+The main **technique** which are used in many workshops and lectures I've learned furthermore are: 
+- How to use **Confusion Matrix** and other matrices,
+- **k-fold cross-validation**,
+- Calculating **F1-score** and other scores,
+- **Data Augmentation**(Horizontal/Vertical Shift, Rotation, Brightness Adjustment, Shear/Zoom, Flip, etc.),
+- **EfficientNet**,
+- **YOLO**,
+- etc.
+
 
 ## Content
 | Class |                       Name                       | Workshop | Certificate |
