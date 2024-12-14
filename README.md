@@ -16,7 +16,9 @@ The main **technique** which are used in many workshops and lectures I've learne
 - **Data Augmentation**(Horizontal/Vertical Shift, Rotation, Brightness Adjustment, Shear/Zoom, Flip, etc.),
 - And many more techniques.
 
+## VIDEO
 Youtube Self Presentation Video: https://youtu.be/mmY8E56_Dys
+
 ## CONTENT
 | Class |                       Name                       | Workshop | Certificate |
 |:-----:|:------------------------------------------------:|:--------:|:-------:|
