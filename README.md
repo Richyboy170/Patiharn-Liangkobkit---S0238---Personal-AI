@@ -1,8 +1,10 @@
 ## ABOUT ME
 - Name: **Patiharn Liangkobkit**
 - Nickname: **Richy**
+- Age: **19**
 - Expertise: **Next.js, Typescript, React Native, C, C#, HTML, Python, Verilog, etc.**
 - University: **King Mongkut’s University of Technology Thonburi**
+- Department: **Computer Engineering**
 
 ## IN SUMMARY
 From everything I've learned from the courses listed below, I've learned that we need to have many parts for researching such as: **Problem Statement, Data Collection, Data Preparation, Modelling, Evaluation, Visualization and Presentation, and Future Work**. 
